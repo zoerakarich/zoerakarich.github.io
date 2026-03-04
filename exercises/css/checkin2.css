@@ -1,0 +1,36 @@
+body {
+    font-family:Georgia, 'Times New Roman', Times, serif; 
+    color: #08457e;
+    background-color: mistyrose;
+    line-height: 1.5
+}
+h1 {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color:rebeccapurple;
+    font-size: 5rem;
+    padding: 1.2rem;
+}
+h2 {
+   font-family: 'Times New Roman', Times, serif;
+   padding: 1.1rem;
+}
+p {
+   margin: 1rem;
+}
+img {
+    float: left;
+    border: 1.5px;
+    max-width: 100%;
+    height: auto;
+    display:block;
+}
+hr {
+    border: none ;
+    height: 2px;
+    background-color: green;
+    margin: 1rem;
+}
+a:link { color: purple; text-decoration:none;} 
+a:visited {color:navy;text-decoration: underline}
+a:hover { color:red;}
+a:active {color:blue;}
