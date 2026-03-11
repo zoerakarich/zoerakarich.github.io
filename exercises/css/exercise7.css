@@ -1,0 +1,74 @@
+body {
+    background-color: #add8e6;
+    margin: 0;
+}
+header {
+    background-color: black;
+    color: white;
+    padding: 2rem;
+    text-align: right;
+}
+article {
+    background-color: white;
+    border: 1px solid gray;
+    padding: 1.3rem;
+    margin: .5rem;
+    margin-bottom: 1.5rem;
+    border-radius: .4rem;
+}
+footer {
+    background-color: black;
+    color: white;
+    padding: 1rem;
+    text-align: center;
+}
+h1 {
+    text-align: center;
+}
+/* Link styling */
+a:link {
+    color: #085f08;
+}
+a:visited {
+    color: #3f0886;
+}
+a:hover {
+    color: #be275f;
+    text-decoration: underline;
+}
+a:active {
+    color: #a7470f;
+} 
+/* Link styling - header */
+header a:link {
+    color: white;
+    text-decoration: none;
+}
+header a:visited {
+    color: white;
+    text-decoration: none;
+}
+header a:hover {
+    color: #be275f;
+    text-decoration: underline;
+}
+header a:active {
+    color: #d6be21;
+    text-decoration: overline;}
+    h2.logo {
+        text-align: center;
+        background-color: rgb(19, 155, 141);
+        width: 6rem;
+        height: 6rem;
+        display: grid;
+        align-items: center;
+        border-radius: 50%;
+}
+.wrapper {
+    border: 0px solid black;
+    margin: 0 auto;
+    max-width: 40rem;
+}
+main {
+    border:0px red solid;
+}
