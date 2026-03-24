@@ -4,4 +4,4 @@ This website opens by explaining accesibility and its application in the digital
 
 # About the Authors
 
-Zoe Rakarich, Jane Edison and Dylan Fisk created this website as Professional Writing and Technical Communictaion students.
+Zoe Rakarich, Jane Edison and Dylan Fisk created this website as Professional Writing and Technical Communication students at UMass Amherst.
