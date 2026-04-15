@@ -1,0 +1,23 @@
+.links {
+    grid-area: links;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    background-color: #676f50;
+    text-align: center;
+}
+.links li {
+    display: inline;
+    padding: 20px;
+}
+.links a {
+    color: #f0e9d2;
+}
+.links a:hover {
+    color: black;
+}
+.links ul {
+    list-style-type: none;
+    padding: 0;
+}
