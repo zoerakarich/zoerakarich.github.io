@@ -1,0 +1,1 @@
+define({r:0.5,st:'Stem',n:1,t:[0],m:[],u:['../Content/Audio-Description/adding-audio-description-to-video.htm'],s:['+','migrain'],p:[['+',28],['card',23],['following',10],['methodical',2],['screen',32],['truscribe',0]]});
